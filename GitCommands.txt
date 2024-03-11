@@ -1,0 +1,13 @@
+Git Useful Commands:
+
+* Commands related to a remote repository:
+	git clone git@github.com:USER-NAME/REPOSITORY-NAME.git
+	git push OR git push origin main 
+
+* Commands related to workflow
+	git add imeFile 
+	git commit -m “Opis na commitot sto e napraven”
+
+* Commands related to checking status or log history
+	git status
+	git log
